@@ -1,0 +1,44 @@
+body
+{
+  color: rgb(0, 0, 0);
+  background: #ffedce;
+  font-family: serif;
+  font-style: italic;
+  font-weight: 700;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name 
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+  font-family: cursive;
+}
+.emoji
+{
+  font-size:48px;
+}
+
+.heading {
+font-family: monospace;
+font-style: normal;
+font-weight: 800;
+  font-size: 20px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+p {
+   font-size: 30px; 
+}
